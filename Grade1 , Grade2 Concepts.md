@@ -49,4 +49,10 @@
 <li>100 centimeter = 1 meter</li>
 <li> 1000 millimeter = 1 meter</li>
     </ul>
+    <h1>Movements of Objects</h1>
+    <ul>
+      <li>Flipping : Moving Mirror like</li>
+      <li>Sliding : moving up and down or top and left</li>
+      <li>Turning : rotating objects</li>
+    </ul>
 
